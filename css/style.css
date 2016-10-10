@@ -3,7 +3,7 @@ body {
 	margin: 0;
 	font: 1.375rem/1.5 "Spoqa Han Sans",Dotum,Sans-Serif;
 	color: #fff;
-	background: #000 url("../Assets/cute_joker.jpg") no-repeat content top;
+	background: #000 url("../Assets/fox.jpg") no-repeat center top;
 }
 
 h1 {
@@ -13,6 +13,14 @@ h1 {
 }
 
 @keyframes wiggle {
-	0%, 50%, 100% {text-shadow: 0 0 10px #3e180d;}
-	25%, 75% { text-shadow: 0 0 2px #3e180d; }
+	0%, 50%, 100% {
+		text-shadow: 0 0 10px #3e180d;
+		transform: scale(1);
+		opacity : 1; 
+	}
+	25%, 75% { 
+		text-shadow: 0 0 2px #3e180d; 
+		transform: scale(1.1);
+		opacity: 1.1;
+	}
 }
