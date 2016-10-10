@@ -66,4 +66,4 @@ This is Remagine's git Blog
 <!-- ctrl shift p 후 emmet : update Image size를 사용하면 자동으로 이미지 크기 확인 가능  -->
 <img src="http://pds27.egloos.com/pds/201310/09/99/c0109099_5254e50e70934.jpg" alt="귀염" width="240" height="150" >
 
-![귀염](http://pds27.egloos.com/pds/201310/09/99/c0109099_5254e50e70934.jpg)
+![귀염](Assets/cute_joker.jpg)
