@@ -7,6 +7,8 @@ body {
 	font: 1.375rem/1.5 "Spoqa Han Sans",Dotum,Sans-Serif;
 	color: #fff;
 	background: #000 url("../Assets/fox.jpg") no-repeat center top;
+	width: 1200px;
+	height: 960px;
 }
 
 h1 {
