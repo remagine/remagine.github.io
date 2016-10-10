@@ -77,3 +77,12 @@ This is Remagine's git Blog
 - [지니- 무력감 테스트](http://blog.naver.com/afx1979?Redirect=Log&logNo=220831608445&from=section)
 - [PPAP](https://www.youtube.com/watch?v=d9TpRfDdyU0)
 - [여우 사진](http://egloos.zum.com/HRDSK/v/1332937)
+
+### 인용 구문
+
+인용절은 보통 들여쓰기를 통해 사용자에게 일반 문장과 구분해준다.<br>
+HTML 언어에서는 `<blockquote>`요소를 사용하여 인용절을 구조화한다.
+
+>"Design is All. All is Design."<br>
+>"Learn By Doing"<br>
+>"근자열 원자래"
