@@ -6,7 +6,7 @@ This is Remagine's git Blog
 # TODO
 
 - [x] Study Markdown
-- [ ] Make 'index.html'
+- [ ] Make `index.html`
 
 
 ## Markdown 문법 사용법
