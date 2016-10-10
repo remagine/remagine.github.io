@@ -5,3 +5,14 @@ body {
 	color: #fff;
 	background: #000 url("../Assets/cute_joker.jpg") no-repeat content top;
 }
+
+h1 {
+	margin: 0;
+	font-weight: 200;
+	font-size: 5rem;
+}
+
+@keyframes wiggle {
+	0%, 50%, 100% {text-shadow: 0 0 10px #3e180d;}
+	25%, 75% { text-shadow: 0 0 2px #3e180d; }
+}
