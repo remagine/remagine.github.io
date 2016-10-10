@@ -21,12 +21,15 @@ h1 {
 @keyframes wiggle {
 	0%, 50%, 100% {
 		text-shadow: 0 0 10px #3e180d;
-		transform: scale(1);
-		opacity : 1; 
+		transform: scale(0.6);
+		letter-spacing: 3em;
+		font-size: 2rem;
+		opacity : 0.6; 
 	}
 	25%, 75% { 
 		text-shadow: 0 0 2px #3e180d; 
 		transform: scale(1.1);
 		opacity: 1.1;
+		font-style: 3rem;
 	}
 }
